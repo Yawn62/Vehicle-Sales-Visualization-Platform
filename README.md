@@ -4,6 +4,8 @@
 
 希望可以给有需求的人一个参考
 
+相关解压文件直接解压即可，目录位置都正确
+
 数据来源：
 https://www.dongchedi.com/
 
@@ -14,6 +16,8 @@ Previously, I developed a web scraping project to collect data and built a visua
 
 
 I hope this can serve as a reference for those who need it.  
+
+The related decompressed files can be extracted directly, and all directory locations are correct.
 
 Data source:
 https://www.dongchedi.com/
