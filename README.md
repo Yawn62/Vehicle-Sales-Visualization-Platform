@@ -18,22 +18,6 @@
 
 当前重点是补全项目文件、梳理依赖与数据流程，再逐步扩展分析功能。
 
-## 仓库结构
-
-```text
-Vehicle-Sales-Visualization-Platform/
-├── myApp/                 # 应用代码目录
-├── spiderMan/             # 数据采集相关目录
-├── 车辆大屏可视化/          # 可视化相关目录
-├── db.sqlite3             # SQLite 数据库文件
-├── manage.py              # 项目管理脚本
-├── package.json           # Node.js 包配置
-├── package-lock.json      # Node.js 依赖锁定文件
-├── word-cloud.py          # 词云相关脚本
-└── README.md
-```
-
-以上为当前已公开的主要目录和文件，后续整理时可能调整。各模块的依赖关系、启动方式和数据流向将随运行验证补充。
 
 ## 使用与运行
 
